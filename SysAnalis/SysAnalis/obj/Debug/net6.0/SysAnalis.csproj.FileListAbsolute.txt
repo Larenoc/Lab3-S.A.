@@ -1,0 +1,15 @@
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.csproj.AssemblyReference.cache
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.AssemblyInfoInputs.cache
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.AssemblyInfo.cs
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.csproj.CoreCompileInputs.cache
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\bin\Debug\net6.0\SysAnalis.exe
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\bin\Debug\net6.0\SysAnalis.deps.json
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\bin\Debug\net6.0\SysAnalis.runtimeconfig.json
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\bin\Debug\net6.0\SysAnalis.dll
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\bin\Debug\net6.0\SysAnalis.pdb
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.dll
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\refint\SysAnalis.dll
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.pdb
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\SysAnalis.genruntimeconfig.cache
+C:\Users\UserX\Desktop\sysanalis\SysAnalis\SysAnalis\obj\Debug\net6.0\ref\SysAnalis.dll
